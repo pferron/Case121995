@@ -2,6 +2,7 @@
   "scanSettings": {
     "configMode": "LOCAL",
     "configExternalURL": "",
+    "productToken": "d851889f3aba4aba959a35125f4d2ada549fb15bda844145a0fcea683eebf31b",
     "projectToken": "",
     "baseBranches": []
   },
